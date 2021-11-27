@@ -19,7 +19,12 @@ Mainly our site specially made for Bike selling service.
 
 ### What is our special Thing !!
 
-In this site you place order for bike. You see your order in dashboard section. if you are admin then you add new bike from here . you also add admin other user who login this page.  
+•	User can order bike to buy.
+•	This site has Register and Login system. User only order by register or login in this site.
+•	This site has a dashboard. User manage their order and give review by using this dashboard. 
+•	This site has admin section. Admin add bike by this admin pannel. Admin see all the order and manage the order. If admin want to delete something they can delete from the site.
+•	Admin can make another admin.
+ 
 
 
 # If You Ordered it  , Your get best service from us !!
